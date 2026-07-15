@@ -1,4 +1,0 @@
-{
-  "link": "https://raw.githubusercontent.com/marciotecnicocom-afk/firmware_Fota/main/firmware_minimo.ino.bin",
-
-}
